@@ -4,7 +4,7 @@ refren_1
 
 p_zwrotka_2.txt
 
-refren_2
+refren_1
 
 p_zwrotka_3.txt
 
