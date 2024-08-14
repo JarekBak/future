@@ -6,15 +6,7 @@ p_zwrotka_2.txt
 
 refren_2
 
-Never opened myself this way
-Life is ours, we live it our way
-All these words I don't just say
-And nothing else matters
-
-Trust I seek and I find in you
-Every day for us something new
-Open mind for a different view
-And nothing else matters
+p_zwrotka_3.txt
 
 Never cared for what they say
 Never cared for games they play
